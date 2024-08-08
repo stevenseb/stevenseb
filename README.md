@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eric</h1>
 <h3 align="center">Hello! I'm an early software developer with a keen interest in full-stack and front-end development. I am passionate about leveraging technology to create innovative solutions, particularly in the realms of AI, fintech, and edtech. I'm constantly learning and eager to collaborate on exciting projects that push the boundaries of what's possible. Let's build something amazing together!</h3>
 
-- 🔭 I’m currently working on <a href="https:maison-elysee.vercel.app/" target="_blank" rel="noreferrer">A Fashion Ecommerce App</a>
+- 🔭 I’m currently working on <a href="https://maison-elysee.vercel.app/" target="_blank" rel="noreferrer">A Fashion Ecommerce App</a>
 
 - 🌱 I particularly like working with **Next.js / React / Express**
 
