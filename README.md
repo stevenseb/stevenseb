@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **proenglishschool1@gmail.com**
 
-- I am currently sharpening my skills in TypeScript and TailWind CSS
+- 💡 I am currently sharpening my skills in TypeScript and TailWind CSS
 
 
 <h3 align="left">See my other projects <a href="https://ericstevens.dev" target="_blank" rel="noreferrer">HERE</a>
