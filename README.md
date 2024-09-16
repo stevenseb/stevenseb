@@ -1,3 +1,5 @@
+![{C7493399-5DD9-44EF-8920-E0DDD2DA9D60}](https://github.com/user-attachments/assets/70d9a022-2478-4ab2-8c12-f026a4f06650)
+
 <h1 align="center">Hi 👋, I'm Eric</h1>
 <h3 align="center">Hello! I'm an early software developer with a keen interest in full-stack and front-end development. I am passionate about leveraging technology to create innovative solutions, particularly in the realms of AI, fintech, and edtech. I'm constantly learning and eager to collaborate on exciting projects that push the boundaries of what's possible. Let's build something amazing together!</h3>
 
