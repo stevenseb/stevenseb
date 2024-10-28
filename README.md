@@ -1,6 +1,8 @@
-![{C7493399-5DD9-44EF-8920-E0DDD2DA9D60}](https://github.com/user-attachments/assets/70d9a022-2478-4ab2-8c12-f026a4f06650)
 
-<h1 align="center">Hi 👋, I'm Eric</h1>
+![brand-header-overlay](https://github.com/user-attachments/assets/15360608-8c8f-4e5e-9083-7ec4c65cf252)
+
+<h1 align="center">Hi 👋, I'm Eric<![Uploading brand-header-overlay.png…]()
+/h1>
 <h3 align="center">Hello! I'm a React software developer with a keen interest in full-stack and front-end development. As someone with experience and education in the fields of finance, education and languages; I am passionate about leveraging technology to create innovative solutions, particularly in the realms of AI, fintech, and edtech. I'm constantly learning and eager to collaborate on exciting projects that push the boundaries of what's possible. Let's build something amazing together!</h3>
 
 - 🔭 I’m currently working on <a href="https://maison-elysee.vercel.app/" target="_blank" rel="noreferrer">A Fashion Ecommerce App</a>
