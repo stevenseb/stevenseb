@@ -10,7 +10,7 @@
 - 🌱 I particularly like working with **Next.js / React / Express**     
     
 - 📫 How to reach me **stevenseb@hotmail.com**     
-  
+    
 - 💡 I am currently sharpening my skills in TypeScript and TailWind CSS 
 
 
