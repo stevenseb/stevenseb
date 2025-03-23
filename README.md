@@ -1,5 +1,5 @@
 
-![brand-header-overlay](https://github.com/user-attachments/assets/15360608-8c8f-4e5e-9083-7ec4c65cf252)
+![brand-header-overlay](https://github.com/user-attachments/assets/15360608-8c8f-4e5e-9083-7ec4c65cf252)   
 
 <h1 align="center">Hi 👋, I'm Eric<![Uploading brand-header-overlay.png…]()          
 /h1>  
