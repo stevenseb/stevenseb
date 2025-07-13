@@ -13,7 +13,7 @@
     
 - 💡 I am currently sharpening my skills in TypeScript and TailWind CSS 
    
-
+   
 <h3 align="left">See my other projects ---> <a href="https://ericstevens.dev" target="_blank" rel="noreferrer">HERE</a>
 <h3 align="left">Connect with me:  </h3>    
 <p align="left">
