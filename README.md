@@ -17,7 +17,7 @@
 <h3 align="left">See my other projects ---> <a href="https://ericstevens.dev" target="_blank" rel="noreferrer">HERE</a>
 <h3 align="left">Connect with me:  </h3>    
 <p align="left">
-<a href="https://linkedin.com/in/ericstevens2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ericstevens2" height="30" width="60" /></a>
+<a.  href="https://linkedin.com/in/ericstevens2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ericstevens2" height="30" width="60" /></a>
 <a href="https://kaggle.com/stevenseb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="stevenseb" height="30" width="60" /></a>
 </p>
 
